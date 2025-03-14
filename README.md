@@ -1,10 +1,10 @@
-# Olá, eu sou o Pablo! 👋
+# Hello, I'm Pablo! 👋
 
-🌍 **Desenvolvedor de Software** | 🚀 **Entusiasta de Tecnologia** | 👨‍🎓 **Estudante**
+🌍 **Software Developer** | 🚀 **Technology Enthusiast** | 👨‍🎓 **Student**
 
-Bem-vindo ao meu cantinho no GitHub, onde compartilho meus projetos e aprendizados.
+Welcome to my GitHub space, where I showcase my projects and share my journey of learning and growth.
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies and Tools
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
@@ -19,18 +19,18 @@ Bem-vindo ao meu cantinho no GitHub, onde compartilho meus projetos e aprendizad
 </div>
 
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <div style="display: flex; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=oLolgged&show_icons=true&theme=algolia&hide_border=true" alt="Estatísticas do GitHub">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oLolgged&layout=compact&theme=algolia&hide_border=true" alt="Linguagens mais usadas">
 </div>
 
-## 📫 Como me encontrar
+## 📫 How to Reach Me
 
 - **LinkedIn:** [Pablo Vinícius Silva Souza](https://linkedin.com/in/pablo-vinicius-silva-souza-2a23031b3/)
 - **Twitter:** [@ololgged](https://twitter.com/ololgged)
-- **Portfólio:** [Em construção 🚧]
+- **Portfolio:** [Under Construction 🚧]
 
 
-⭐️ Sinta-se convidado(a) a explorar meus repositórios e me chamar para trocar ideias ou trabalhar juntos em algo novo!
+⭐️ Feel free to explore my repositories and reach out to exchange ideas or collaborate on something new!
