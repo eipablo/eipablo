@@ -30,5 +30,8 @@ Welcome to my GitHub space, where I showcase my projects and share my journey of
 - **LinkedIn:** [Pablo Vinícius Silva Souza](https://linkedin.com/in/pablo-vinicius-silva-souza-2a23031b3/)
 - **Twitter:** [@ololgged](https://twitter.com/ololgged)
 
+## ℹ️ Credits
+
+- **GitHub Icon**: Designed by [@Asyszx](https://twitter.com/Asyszx)
 
 ⭐️ Feel free to explore my repositories and reach out to exchange ideas or collaborate on something new!
