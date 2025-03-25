@@ -21,8 +21,8 @@ Welcome to my GitHub space, where I showcase my projects and share my journey of
 ## 📊 GitHub Stats
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=oLolgged&show_icons=true&theme=algolia&hide_border=true" alt="Estatísticas do GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oLolgged&layout=compact&theme=algolia&hide_border=true" alt="Linguagens mais usadas">
+  <img src="https://github-readme-stats.vercel.app/api?username=eipablo&show_icons=true&theme=algolia&hide_border=true" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eipablo&layout=compact&theme=algolia&hide_border=true" alt="Linguagens mais usadas">
 </div>
 
 ## 📫 How to Reach Me
