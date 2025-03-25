@@ -32,6 +32,6 @@ Welcome to my GitHub space, where I showcase my projects and share my journey of
 
 ## ℹ️ Credits
 
-- **GitHub Icon**: Designed by [@Asyszx](https://twitter.com/Asyszx)
+- **GitHub Icon**: Designed by [@Asyszx](https://twitter.com/Asyszx) on X
 
 ⭐️ Feel free to explore my repositories and reach out to exchange ideas or collaborate on something new!
