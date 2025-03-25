@@ -28,7 +28,7 @@ Welcome to my GitHub space, where I showcase my projects and share my journey of
 ## 📫 How to Reach Me
 
 - **LinkedIn:** [Pablo Vinícius Silva Souza](https://linkedin.com/in/pablo-vinicius-silva-souza-2a23031b3/)
-- **Twitter:** [@ololgged](https://twitter.com/ololgged)
+- **X:** [@ololgged](https://twitter.com/ololgged)
 
 ## ℹ️ Credits
 
