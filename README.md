@@ -1,6 +1,6 @@
 # Hello, I'm Pablo! 👋
 
-🌍 **Software Developer** | 🚀 **Technology Enthusiast** | 👨‍🎓 **Student**
+🌍 **Software & Web Developer** | 🚀 **Technology Enthusiast** | 👨‍🎓 **Student**
 
 Welcome to my GitHub space, where I showcase my projects and share my journey of learning and growth.
 
