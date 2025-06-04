@@ -28,6 +28,7 @@ Welcome to my GitHub space, where I showcase my projects and share my journey of
 
 - **LinkedIn:** [Pablo Vinícius Silva Souza](https://linkedin.com/in/pablo-vinicius-silva-souza-2a23031b3/)
 - **X:** [@ololgged](https://twitter.com/ololgged)
+- **Portfolio:** [Link](https://eipablo.github.io/Portifolio/)
 
 ## ℹ️ Credits
 
